@@ -3,6 +3,7 @@
     "rules": "./src/firebase/firestore.rules"
   },
   "hosting": {
+    "site": "viera-pwa-bento",
     "public": "dist",
     "ignore": [
       "firebase.json",
